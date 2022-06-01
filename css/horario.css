@@ -1,0 +1,23 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Sans-serif;
+}
+body {
+    max-width: 400px;
+    margin: auto;
+    background-color: rgb(6,12,37);
+    background-image: url("../img/fondo4.jpg");
+    background-repeat: repeat-y;
+    background-position: top;
+}
+footer a{
+    background-color: blue;
+    color: aliceblue;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;
+    
+}
